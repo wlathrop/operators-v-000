@@ -3,8 +3,8 @@ def unsafe?(speed)
       return TRUE
   else
       return FALSE
+  end
 end
-
 
 
 def not_safe?(speed)
